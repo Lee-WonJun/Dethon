@@ -1,0 +1,2 @@
+# Dethon
+Decentralized Hackathon Platform
